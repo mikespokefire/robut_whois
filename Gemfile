@@ -1,4 +1,4 @@
 source 'http://rubygems.org'
 
-# Specify your gem's dependencies in robut-whois.gemspec
+# Specify your gem's dependencies in robut_whois.gemspec
 gemspec
