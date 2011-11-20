@@ -9,6 +9,7 @@ Gem::Specification.new do |gem|
   gem.homepage      = ""
   
   gem.add_dependency "robut", "~> 0.3"
+  gem.add_dependency "whois", "~> 2.1.0"
   gem.add_development_dependency "rspec"  
   
   gem.executables   = `git ls-files -- bin/*`.split("\n").map{ |f| File.basename(f) }
