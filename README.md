@@ -2,6 +2,10 @@
 
 A plugin for [robut](https://github.com/justinweiss/robut) for doing WHOIS lookups.
 
+## Build status
+
+[![Build Status](https://secure.travis-ci.org/mikespokefire/robut_whois.png)](http://travis-ci.org/mikespokefire/robut_whois)
+
 ## Installation
 
 Add this to your Gemfile:
