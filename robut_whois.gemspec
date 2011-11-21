@@ -6,7 +6,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["mike@spokefire.co.uk"]
   gem.summary       = %q{Robut WHOIS plugin}
   gem.description   = %q{Robut will give you the whois information about a domain}
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/mikespokefire/robut_whois"
   
   gem.add_dependency "robut", "~> 0.3"
   gem.add_dependency "whois", "~> 2.1.0"
